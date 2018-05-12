@@ -1,0 +1,33 @@
+_repo: Soap-Bubbles-and-the-Forces-Which-Mould-Them_33370
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boys, C. V. (Charles Vernon)
+    alias: Boys, Charles Vernon, Sir
+    birthdate: 1855
+    deathdate: 1944
+    gutenberg_agent_id: '36370'
+    url: http://www.gutenberg.org/2009/agents/36370
+    wikipedia: http://en.wikipedia.org/wiki/C._V._Boys
+description: 'SUMMARY: Entertaining experiments and demonstrations described to illustrate
+  and explain scientific principles of surface tension; molecular structure and forces;
+  the concepts of surfaces of zero curvature and the minimum surface that can enclose
+  various shaped volumes; and the reason for the existence of soap bubbles.'
+gutenberg_issued: '2010-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Capillarity'
+- !lcc 'QC'
+- !lcsh 'Surface tension'
+- !lcsh 'Bubbles'
+title: Soap-Bubbles and the Forces Which Mould Them
+url: http://www.gutenberg.org/ebooks/33370
